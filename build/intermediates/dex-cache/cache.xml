@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/liangze/Workspace/AndroidProjects/SensorManagerDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="02bd5a671c728d1e6c18e486088b0bd3d0f6cff0">
+        <dex dex="/Users/liangze/Workspace/AndroidProjects/SensorManagerDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_04f1b21dd94800187a48035f0d84f7c1929d5124/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liangze/Workspace/AndroidProjects/SensorManagerDemo/app/libs/sensordatamanager.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="19bb6a436189f000a24045a857ec62884cf18b3f">
+        <dex dex="/Users/liangze/Workspace/AndroidProjects/SensorManagerDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/sensordatamanager_ed9087914dd5fbf73d96d5a605a7abd0c77d83e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liangze/Workspace/AndroidProjects/SensorManagerDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/liangze/Workspace/AndroidProjects/SensorManagerDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5f39a32d8c380bf4ca050bbe968c2a50cd1cb559/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liangze/Workspace/AndroidProjects/SensorManagerDemo/app/libs/sensormanager.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5ec5d9f1ccb29f0c515cd01c3ba11b3bf1f3bf35">
+        <dex dex="/Users/liangze/Workspace/AndroidProjects/SensorManagerDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/sensormanager_ed1bdccec8923887515b8faf57d427d602a2cea3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liangze/Workspace/AndroidProjects/SensorManagerDemo/app/libs/sensormanager-old.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0b5ffb27e2292242c075d7d292f6bdee779e9cc1">
+        <dex dex="/Users/liangze/Workspace/AndroidProjects/SensorManagerDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/sensormanager-old_315849e8ca900ac7e93591b3bc4cdf075087ac48/classes.dex" />
+    </item>
+
+</items>
